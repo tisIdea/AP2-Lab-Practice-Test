@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+   background: url(wallpaper.jpg) no-repeat center; 
+    background-color: rgb(35, 80, 50);
+}
+
+p,h3,h4,ul{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+hr{
+    color: black;
+}
+ul {
+    display: table;
+    margin: 0 auto;
+}
+.name{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+}
+
+.contents{
+    width: 80%;
+    background-color: rgba(199, 255, 218, 0.288);
+    margin: auto;
+    padding: 20px;
+    max-width: auto;
+  }
